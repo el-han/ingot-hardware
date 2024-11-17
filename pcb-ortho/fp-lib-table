@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "blackwing")(type "KiCad")(uri "/home/helling/repos/blackwing-hardware/blackwing.pretty")(options "")(descr ""))
-)
